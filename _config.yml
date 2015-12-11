@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+title: Blog ECAN
+locale: fr
+description: Blog de l'école de la création et l'artisanat numérique
+logo: logo.png
 search: true
-url: http://localhost:4000
+url: http://blog.ecan.fr
 
 # Jekyll configuration
 
@@ -33,15 +33,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Xavier
+  avatar: xa.jpg
+  email: xavier@ecan.fr
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: Xavierlava
+  facebook: xavier.lavayssiere
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: lavayssiere
   instagram: #username
   flickr: #username
   tumblr: #username
