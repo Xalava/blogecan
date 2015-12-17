@@ -5,11 +5,11 @@ locale: fr
 description: Blog de l'école de la création et l'artisanat numérique
 logo: inaulogo.jpg
 search: true
-url: //blog.ecan.fr
+url: //127.0.0.1:4000
 
 # Jekyll configuration
 
-permalink:   /:title/
+permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -37,8 +37,8 @@ owner:
   avatar: xa.jpg
   email: xavier@ecan.fr
   disqus-shortname:
-  twitter: ECANfr
-  facebook: ecoleCAN
+  twitter: Xavierlava
+  facebook: xavier.lavayssiere
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: lavayssiere
